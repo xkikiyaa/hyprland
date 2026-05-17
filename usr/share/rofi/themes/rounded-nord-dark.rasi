@@ -1,19 +1,35 @@
-/* ROUNDED THEME FOR ROFI */
-/* Author: Newman Sanchez (https://github.com/newmanls) */
+/* ROUNDED THEME FOR ROFI - LAIN EDITION */
+/* Adapted from Newman Sanchez's template */
 
 * {
-    bg0:    #2E3440F2;
-    bg1:    #3B4252;
-    bg2:    #4C566A80;
-    bg3:    #88C0D0F2;
-    fg0:    #D8DEE9;
-    fg1:    #ECEFF4;
-    fg2:    #D8DEE9;
-    fg3:    #4C566A;
+    /* Deep dark blue-black background (with transparency) */
+    bg0:    #080F16E6; 
+    
+    /* Slightly lighter dark blue for element backgrounds */
+    bg1:    #0F1B26;   
+    
+    /* Selection hover color (translucent dark blue) */
+    bg2:    #1A2D3E80; 
+    
+    /* Bright terminal blue for active/accent text and elements */
+    bg3:    #7CC2DFE6; 
+    
+    /* Main text color (crisp, light blue-gray) */
+    fg0:    #D5E3EC;   
+    
+    /* Highlighted text color */
+    fg1:    #FFFFFF;   
+    
+    /* Muted text color */
+    fg2:    #829AA7;   
+    
+    /* Darker accent for borders or inactive states */
+    fg3:    #243B4E;   
 }
 
 @import "template/rounded-template.rasi"
 
 element selected {
-    text-color: @bg1;
+    /* Sets the text color of the selected item to match the deep background */
+    text-color: @bg1; 
 }
