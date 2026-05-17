@@ -1,2 +1,2 @@
 
-hyprland ly-openrc librewolf neofetch kitty kate hyprpaper waybar hyprshot noto-fonts noto-fonts-cjk noto-fonts-emoji ffmpegthumbs rofi hyprpolkitagent xdg-desktop-portal-hyprland gnome-themes-extra ttf-jetbrains-mono-nerd nm-connection-editor breeze breeze-gtk pavucontrol wl-clipboard go cliphist
+hyprland ly-openrc librewolf fastfetch kitty kate hyprpaper waybar hyprshot noto-fonts noto-fonts-cjk noto-fonts-emoji ffmpegthumbs rofi hyprpolkitagent xdg-desktop-portal-hyprland gnome-themes-extra ttf-jetbrains-mono-nerd nm-connection-editor breeze breeze-gtk pavucontrol wl-clipboard go cliphist yazi vi

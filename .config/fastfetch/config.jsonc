@@ -2,7 +2,7 @@
   "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
   "logo": {
     "color": {"1": "blue", "2": "black"},
-    "source": "~/.config/fastfetch/png/lorina.png",
+    "source": "~/.config/fastfetch/png/lain.png",
     "padding": {
       "top": 0,
       "right": 5
@@ -41,11 +41,6 @@
       "keycolor": "green"
     },
     {
-      "type": "packages",
-      "key": "│",
-      "keycolor": "yellow"
-    },
-    {
       "type": "terminal",
       "key": "│",
       "keycolor": "yellow"
@@ -61,11 +56,6 @@
     },
     {
       "type": "memory",
-      "key": "│",
-      "keycolor": "blue"
-    },
-    {
-      "type": "host",
       "key": "│",
       "keycolor": "blue"
     },
